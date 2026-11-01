@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>RotoWire.com Latest NHL News</title>
+    <copyright>Copyright (c) 2026 Roto Sports, Inc, All rights reserved.</copyright>
+    <description>Fantasy Sports from RotoWire.com</description>
+    <category>Fantasy Sports</category>
+    <language>en-us</language>
+    <ttl>10</ttl>
+    <image>
+      <title>RotoWire.com Fantasy Sports</title>
+      <width>120</width>
+      <height>30</height>
+      <link>https://www.rotowire.com</link>
+      <url>https://assets.rotowire.com/images/logo_roto_small.gif</url>
+    </image>
+    <link>https://www.rotowire.com</link>
+    <item>
+      <guid>nhl598054</guid>
+      <title>Connor McDavid: Historic streak grows to 14</title>
+      <link>https://www.rotowire.com//hockey/player/connor-mcdavid-4712</link>
+      <description>McDavid distributed a power-play assist and placed three shots on net in Saturday's 4-0 win over the Islanders.
+
+        Visit RotoWire.com for more analysis on this update.</description>
+      <pubDate>Sun, 01 Nov 2026 02:24:00 GMT</pubDate>
+    </item>
+    <item>
+      <guid>nhl598053</guid>
+      <title>Leon Draisaitl: Bounces back with two helpers</title>
+      <link>https://www.rotowire.com//hockey/player/leon-draisaitl-4386</link>
+      <description>Draisaitl recorded two assists, including one on the power play, and placed two shots on net in Saturday's 4-0 win over the Islanders.
+
+        Visit RotoWire.com for more analysis on this update.</description>
+      <pubDate>Sun, 01 Nov 2026 02:22:00 GMT</pubDate>
+    </item>
+    <item>
+      <guid>nhl598050</guid>
+      <title>Ryan Nugent-Hopkins: Deposits two goals in win</title>
+      <link>https://www.rotowire.com//hockey/player/ryan-nugent-hopkins-3743</link>
+      <description>Nugent-Hopkins tallied two goals, including one on the power-play, placed two shots on net and served two PIM in Saturday's 4-0 win over the Islanders.
+
+        Visit RotoWire.com for more analysis on this update.</description>
+      <pubDate>Sun, 01 Nov 2026 02:21:00 GMT</pubDate>
+    </item>
+    <item>
+      <guid>nhl598048</guid>
+      <title>Tristan Jarry: Cruises to shutout</title>
+      <link>https://www.rotowire.com//hockey/player/tristan-jarry-4198</link>
+      <description>Jarry stopped all 18 shots on net he saw in Saturday's 4-0 shutout win over the Islanders.
+
+        Visit RotoWire.com for more analysis on this update.</description>
+      <pubDate>Sun, 01 Nov 2026 02:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <guid>nhl598031</guid>
+      <title>Anton Frondell: Lights lamp twice in OT loss</title>
+      <link>https://www.rotowire.com//hockey/player/anton-frondell-7382</link>
+      <description>Frondell scored two goals, one on the power play, in Saturday's 5-4 overtime loss to the Bruins.
+
+        Visit RotoWire.com for more analysis on this update.</description>
+      <pubDate>Sun, 01 Nov 2026 01:03:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
